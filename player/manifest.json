@@ -1,0 +1,95 @@
+{
+  "format": "hellscript-web-v1",
+  "sourceRevision": "eadd9b7ba7d7a7141bc23ccbcf189b73a7d5b4e5",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "parts": [
+        {
+          "path": "objects/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.000",
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      ]
+    },
+    {
+      "path": "Build/9d9f47675d324a5a0211f95e3d355d34.loader.js",
+      "bytes": 48779,
+      "sha256": "e812b673bf9c06f577281919d81a11fcf7ad7996e754072b2cc5780e100cb4bf",
+      "parts": [
+        {
+          "path": "objects/e812b673bf9c06f577281919d81a11fcf7ad7996e754072b2cc5780e100cb4bf.000",
+          "sha256": "e812b673bf9c06f577281919d81a11fcf7ad7996e754072b2cc5780e100cb4bf"
+        }
+      ]
+    },
+    {
+      "path": "Build/a855cb2267fd61ec1c37e37617e0aba0.wasm.unityweb",
+      "bytes": 9247369,
+      "sha256": "b2aec7fe2d1dfb15352d913cb0b7769ebe7142c62e729e5d694e933df531e5e0",
+      "parts": [
+        {
+          "path": "objects/b2aec7fe2d1dfb15352d913cb0b7769ebe7142c62e729e5d694e933df531e5e0.000",
+          "sha256": "b2aec7fe2d1dfb15352d913cb0b7769ebe7142c62e729e5d694e933df531e5e0"
+        }
+      ]
+    },
+    {
+      "path": "Build/ae7ae234121a0646a80e6df91b8d5083.data.unityweb",
+      "bytes": 154458711,
+      "sha256": "0edddb88cd009985e9fd9fe7bb3f0d10e2a546a01987aacadc7a2a664c6ee350",
+      "parts": [
+        {
+          "path": "objects/0edddb88cd009985e9fd9fe7bb3f0d10e2a546a01987aacadc7a2a664c6ee350.000",
+          "sha256": "c5470ab6e502cae51013d30667d26e50cd233815eb302b0c46292c88f45d0e33"
+        },
+        {
+          "path": "objects/0edddb88cd009985e9fd9fe7bb3f0d10e2a546a01987aacadc7a2a664c6ee350.001",
+          "sha256": "eae5bfe48dbe51dff8d3e6aa37dc812c781e6a724a3a76882b3a34a8516b626d"
+        },
+        {
+          "path": "objects/0edddb88cd009985e9fd9fe7bb3f0d10e2a546a01987aacadc7a2a664c6ee350.002",
+          "sha256": "c416296b861199b550fc857541fa6788a741c0d600a1df26439584c0beeab117"
+        },
+        {
+          "path": "objects/0edddb88cd009985e9fd9fe7bb3f0d10e2a546a01987aacadc7a2a664c6ee350.003",
+          "sha256": "0cf71ee77baf400edd96f7aa724792c7bfbec70722c5cebd524ed212e721f529"
+        }
+      ]
+    },
+    {
+      "path": "Build/dd0f610a8c5f517a337ee28f4ee802d7.framework.js.unityweb",
+      "bytes": 78147,
+      "sha256": "316eac55058fd524baf59c1d225b58921fcd118425bd52ba03fcde6cc659b206",
+      "parts": [
+        {
+          "path": "objects/316eac55058fd524baf59c1d225b58921fcd118425bd52ba03fcde6cc659b206.000",
+          "sha256": "316eac55058fd524baf59c1d225b58921fcd118425bd52ba03fcde6cc659b206"
+        }
+      ]
+    },
+    {
+      "path": "ThirdPartyNotices.txt",
+      "bytes": 4534,
+      "sha256": "eeacf16032901d0ed0456876ec77b8f0fda6b3fecec7d972f8543eb602e6c30f",
+      "parts": [
+        {
+          "path": "objects/eeacf16032901d0ed0456876ec77b8f0fda6b3fecec7d972f8543eb602e6c30f.000",
+          "sha256": "eeacf16032901d0ed0456876ec77b8f0fda6b3fecec7d972f8543eb602e6c30f"
+        }
+      ]
+    },
+    {
+      "path": "index.html",
+      "bytes": 7115,
+      "sha256": "7cd4f05cc1448555809f636daef49575158fdcd4a597cdaab22dd0f237f7ed22",
+      "parts": [
+        {
+          "path": "objects/7cd4f05cc1448555809f636daef49575158fdcd4a597cdaab22dd0f237f7ed22.000",
+          "sha256": "7cd4f05cc1448555809f636daef49575158fdcd4a597cdaab22dd0f237f7ed22"
+        }
+      ]
+    }
+  ]
+}
